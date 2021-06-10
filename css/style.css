@@ -3,17 +3,6 @@
     padding: 0;
 }
 
-@font-face {
-	font-family: 'Oswald'; 
-	src: url(../font/OswaldExtraLight.ttf); 
-}
-
-@font-face {
-	font-family: 'Sansation'; 
-	src: url(../font/Sansation.ttf); 
-}
-
-
 .begin {
 position: relative;
 width: 100%;
